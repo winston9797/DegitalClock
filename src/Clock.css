@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@669&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Upright&display=swap');
+p{
+    font-size: 30px;
+}
+.green{
+    color:greenyellow;
+    font-family: 'Orbitron', sans-serif;
+    background-color: black;
+    padding: 20px;
+}
+
+.red{
+    color:rgb(255, 38, 0);
+    font-family: 'Josefin Slab', serif;
+    background-color: white;
+    padding: 20px;
+}
+
+.yellow{
+    color:yellow;
+    font-family: 'Cormorant Upright', serif;
+    background-color: violet;
+    padding: 20px;
+}
